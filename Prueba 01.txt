@@ -6,4 +6,4 @@ Línea 3
 
 Línea 4
 
-Prueba 02, primer comentario 
+Prueba 02, primer comentario en txt 
